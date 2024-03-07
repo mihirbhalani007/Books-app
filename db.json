@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "A good book",
+      "id": 1
+    },
+    {
+      "title": "laptop",
+      "id": 2
+    },
+    {
+      "title": "Waterfall",
+      "id": 3
+    },
+    {
+      "title": "Strawberry ",
+      "id": 4
+    },
+    {
+      "title": "Ocean",
+      "id": 5
+    },
+    {
+      "title": "Chopsticks",
+      "id": 6
+    }
+  ]
+}
