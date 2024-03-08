@@ -13,11 +13,11 @@ function BookShow({ book }) {
   const handleEditClick = () => {
     setShowEdit(!showEdit);
   };
-
+  
   const handleSubmit = () => {
     setShowEdit(false);
   };
-
+  
   let content = <h3>{book.title}</h3>;
   if (showEdit) {
     content = <BookEdit onSubmit={handleSubmit} book={book} />;
